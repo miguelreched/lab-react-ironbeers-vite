@@ -10,6 +10,8 @@ a {
 form {
   max-width: 400px;
   margin: 20px auto;
+  justify-content: center;
+  text-align: center;
 }
 
 .search-bar {
@@ -18,4 +20,5 @@ form {
 
 .btn-round {
   margin: 20px;
+  color: darkgoldenrod;
 }
